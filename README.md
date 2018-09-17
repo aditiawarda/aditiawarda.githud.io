@@ -13,3 +13,5 @@ Ini adalah aplikasi pertama saya
 
 - git config --global user.name "Aditia Wardani"
 ```
+
+#KONTOL
