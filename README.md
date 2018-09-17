@@ -3,5 +3,13 @@
 Semoga apa yang saya pelajari hari ini dapat berguna dikemudian hari
 ```
 
-#APPS
+# APPS
 Ini adalah aplikasi pertama saya
+
+# MASALAH,
+```
+- git config --global user.email
+"aditiawardani6@gmail.com"
+
+- git config --global user.name "Aditia Wardani"
+```
